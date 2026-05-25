@@ -1,0 +1,16 @@
+{
+  "version": "2.6.2",
+  "summary": {
+    "title": "World Cup 2026 API",
+    "owner": "Group 2",
+    "description": "The proposed project has a clear goal: to de-oldify antique Football World Cup images. This project assumes that antique images have the following characteristics:\nNo color, meaning black-and-white images. Approx. images before 1870\nFilm grain / noise\nLow resolution\n\nTaking this into account, the de-oldification process aims to replace those characteristics with modern image-like features:\nColorful\nLittle to no noise\nHigh resolution\n",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Telmo Rubio, Oier Fernandez, Cristina Oueghlani, Aimar Nebreda and Mauricio Luna",
+    "threatTop": 0
+  }
+}
